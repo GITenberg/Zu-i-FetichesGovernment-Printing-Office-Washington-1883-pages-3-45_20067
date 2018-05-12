@@ -1,0 +1,31 @@
+_repo: Zu-i-FetichesGovernment-Printing-Office-Washington-1883-pages-3-45_20067
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cushing, Frank Hamilton
+    birthdate: 1857
+    deathdate: 1900
+    gutenberg_agent_id: '7190'
+    url: http://www.gutenberg.org/2009/agents/7190
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Hamilton_Cushing
+description: ''
+gutenberg_issued: '2006-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20067'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zuni mythology'
+- !lcc 'E011'
+- !lcsh 'Zuni Indians -- Religion'
+- !lcsh 'Fetishes (Ceremonial objects)'
+title: "Zuñi Fetiches\r\nSecond Annual Report of the Bureau of Ethnology to the Secretary\
+  \ of the Smithsonian Institution, 1880-1881, Government Printing Office, Washington,\
+  \ 1883, pages 3-45"
+url: http://www.gutenberg.org/ebooks/20067
